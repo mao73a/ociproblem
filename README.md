@@ -1,7 +1,7 @@
 # ociproblem
 This is demonstration of oci19 bug with converting numbers to internal Oracle format when called from Pascal
 
-1. Compile code in Ebarcadero Delphi XE
+1. Compile code in Embarcadero Delphi XE
 
 2. Run in cmd (substitute Your OCI path)
 SET ORACLE_HOME= <INSTANT CLIENT ORACLE DIRECTORY WITH OCI.DLL>
